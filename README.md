@@ -35,3 +35,17 @@ node day02-functions-scope.js
 - [x] Day 1 - Foundation
 - [x] Day 2 - Functions & Scope
 - [ ] Day 3 - Arrays & Objects
+
+## Day 3: Closures (Real Examples)
+- Built own counter with private state
+- Built own cache function
+- Memoization for performance
+- Data privacy patterns
+- Event handlers with closures
+- ID generators and rate limiters
+- Studied broken code and explained WHY it broke
+
+### Run Day 3
+```bash
+node day03-closures.js
+```
